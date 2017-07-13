@@ -1,0 +1,31 @@
+.subheading{
+	color: #16335F !important;
+
+}
+
+.subheading2{
+	color: #16335F !important;
+}
+
+.subheading3{
+	color: #16335F !important;
+}
+
+.subheading4{
+	color: #16335F !important;
+}
+
+body{
+	font-family: 'Verdana';
+	font-size: 12px;
+	color: #83888C;
+}
+
+.timeline-image{
+	color: red !important;
+
+}
+
+.timeline>li .timeline-image{
+	background-color: #FFFFFF;
+}
