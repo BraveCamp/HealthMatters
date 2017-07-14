@@ -57,3 +57,11 @@
 	text-align: left;
 
 }
+
+.button{
+    text-align: center;
+}
+
+.service-heading a:link{
+    color: #16335F;
+}
